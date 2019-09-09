@@ -1,0 +1,33 @@
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cc126a8e47d2d512f5c09b3739d07a7f2aaa933030ae70764d9d123e3913ec520a",
+      "host": "keybase.io",
+      "kid": "0120cc126a8e47d2d512f5c09b3739d07a7f2aaa933030ae70764d9d123e3913ec520a",
+      "uid": "d2deea3ce725d99c4ea9e8a4a8ba7a19",
+      "username": "netoss"
+    },
+    "merkle_root": {
+      "ctime": 1568053388,
+      "hash": "45440de4e4e34676c9d99bcbc8ba787688421a6e61be0f4bb562bb1ac04ed3ff525580ba6886a47acb988adfb1f595c3dae22831a9e047c6904f8f7cba1a4926",
+      "hash_meta": "fb93ec0dc6baf87ed0d9247c5c1ce060ea3bf94c5c32619b87f049ff7336795c",
+      "seqno": 6225982
+    },
+    "service": {
+      "entropy": "wAwDMWwNp16c69ClgGjP9RIt",
+      "name": "github",
+      "username": "netossnet"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568053398,
+  "expire_in": 504576000,
+  "prev": "8aee14b91f7f48f040f99f1cd2496db6f811b48e7e814bccdca1945b1b39ca8f",
+  "seqno": 7,
+  "tag": "signature"
+}
